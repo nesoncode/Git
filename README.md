@@ -25,3 +25,11 @@ Avec cette commande, on va pouvoir récupérer le projet distant mis à jour dan
 ## git add
 
 Dans VSCode, on peut ajouter une nouvelle version d'un fichier à la zone de surveillance en cliquant sur le bouton + dans la section "Controle de code source"
+
+##  git commit 
+
+Avec cette commande, on enregistre dans l'historique une nouvelle version de notre application. Dans VSCode, dans la section "Controle de code source", on a une zone de saisie pour indiquer le message du commit (message le plus précis possible afin de retrouver facilement les différentes cersions du projet.)
+
+## git push
+
+Afin de garder aussi ressemblant que possible le dépot local et le dépot distant, on va envoyer les modifications sur github avec la commande push
