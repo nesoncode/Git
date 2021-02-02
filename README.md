@@ -21,3 +21,7 @@ On peut ainsi travailler en local avec VSCode, ce qui est plus pratique que de l
 ## git pull
 
 Avec cette commande, on va pouvoir récupérer le projet distant mis à jour dans notre dépot local
+
+## git add
+
+Dans VSCode, on peut ajouter une nouvelle version d'un fichier à la zone de surveillance en cliquant sur le bouton + dans la section "Controle de code source"
